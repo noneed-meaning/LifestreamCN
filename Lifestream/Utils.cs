@@ -58,10 +58,10 @@ internal static unsafe partial class Utils
 
     public static ErrorCode ChangeCharacter(string charaName, string charaHomeWorld)
     {
-        if(!ExcelWorldHelper.GetPublicWorlds().Any(x => x.Name == charaHomeWorld))
-        {
-            return ErrorCode.Invalid_world_specified;
-        }
+        //if(!ExcelWorldHelper.GetPublicWorlds().Any(x => x.Name == charaHomeWorld))
+        //{
+        //    return ErrorCode.Invalid_world_specified;
+        //}解决国服无法切换角色的问题
         if(Player.Available)
         {
             TaskLogout.Enqueue();
