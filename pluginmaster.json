@@ -1,0 +1,23 @@
+[{
+    "Author": "NightmareXIV",
+    "Name": "Lifestream",
+    "Punchline": "A plugin to speed up Aethernet travel and World changing.",
+    "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
+    "Changelog": "- Experimental CN client support",
+    "IsHide": false,
+    "InternalName": "Lifestream",
+    "AssemblyVersion": "2.5.3.13",
+    "TestingAssemblyVersion": "2.5.3.13",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/noneed-meaning/LifestreamCN",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "DownloadCount": 928883,
+    "LastUpdate": 1767163820,
+    "DownloadLinkInstall": "https://github.com/noneed-meaning/LifestreamCN/releases/download/2.5.3.13/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/noneed-meaning/LifestreamCN/releases/download/2.5.3.13/latest.zip",
+    "DownloadLinkTesting": "https://github.com/noneed-meaning/LifestreamCN/releases/download/2.5.3.13/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://github.com/noneed-meaning/LifestreamCN/raw/main/Lifestream/images/icon.png"
+  }]
